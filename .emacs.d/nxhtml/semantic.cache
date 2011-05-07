@@ -1,0 +1,140 @@
+;; Object semantic.cache
+;; SEMANTICDB Tags save file
+(semanticdb-project-database "semantic.cache"
+  :file "semantic.cache"
+  :tables (list
+   (semanticdb-table "nxhtml-loaddefs.el"
+    :file "nxhtml-loaddefs.el"
+    :pointmax 171368
+    :major-mode 'emacs-lisp-mode
+    :tokens '(("eval-when-compile" code nil [1 1]) ("eval-when-compile" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("appmenu-mode" variable nil nil nil "Non-nil if Appmenu mode is enabled.
+See the command `appmenu-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `appmenu-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("as-external-mode" variable nil nil nil "Non-nil if As-External mode is enabled.
+See the command `as-external-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `as-external-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("css-color-global-mode" variable nil nil nil "Non-nil if Css-Color-Global mode is enabled.
+See the command `css-color-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `css-color-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("css-palette-global-mode" variable nil nil nil "Non-nil if Css-Palette-Global mode is enabled.
+See the command `css-palette-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `css-palette-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("fold-dwim-mode" variable nil nil nil "Non-nil if Fold-Dwim mode is enabled.
+See the command `fold-dwim-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `fold-dwim-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("foldit-global-mode" variable nil nil nil "Non-nil if Foldit-Global mode is enabled.
+See the command `foldit-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `foldit-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("hfyview-quick-print-in-files-menu" variable nil nil nil "Add Quick print entries to File menu if non-nil.
+If you set this to nil you have to restart Emacs to get rid of
+the Quick Print entry." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("hl-needed-mode" variable nil nil nil "Non-nil if Hl-Needed mode is enabled.
+See the command `hl-needed-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `hl-needed-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("inlimg-global-mode" variable nil nil nil "Non-nil if Inlimg-Global mode is enabled.
+See the command `inlimg-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `inlimg-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("markchars-global-mode" variable nil nil nil "Non-nil if Markchars-Global mode is enabled.
+See the command `markchars-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `markchars-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("mlinks-global-mode" variable nil nil nil "Non-nil if Mlinks-Global mode is enabled.
+See the command `mlinks-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `mlinks-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("better-fringes-mode" variable nil nil nil "Non-nil if Better-Fringes mode is enabled.
+See the command `better-fringes-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `better-fringes-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("ourcomments-ido-ctrl-tab" variable nil nil nil "Non-nil if Ourcomments-Ido-Ctrl-Tab mode is enabled.
+See the command `ourcomments-ido-ctrl-tab' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `ourcomments-ido-ctrl-tab'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("ourcomments-paste-with-convert-mode" variable nil nil nil "Non-nil if Ourcomments-Paste-With-Convert mode is enabled.
+See the command `ourcomments-paste-with-convert-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `ourcomments-paste-with-convert-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("ourcomments-M-x-menu-mode" variable nil nil nil "Non-nil if Ourcomments-M-X-Menu mode is enabled.
+See the command `ourcomments-M-x-menu-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `ourcomments-M-x-menu-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("pause-mode" variable nil nil nil "Non-nil if Pause mode is enabled.
+See the command `pause-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `pause-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("global-pointback-mode" variable nil nil nil "Non-nil if Global-Pointback mode is enabled.
+See the command `global-pointback-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `global-pointback-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("popcmp-completion-style" variable nil (cond (t (quote popcmp-popup))) nil "Completion style.
+The currently available completion styles are:
+
+- popcmp-popup: Use OS popup menus (default).
+- emacs-default: Emacs default completion.
+- Company Mode completion.
+- anything: The Anything elisp lib completion style.
+
+The style of completion set here is not implemented for all
+completions.  The scope varies however with which completion
+style you have choosen.
+
+For information about Company Mode and how to use it see URL
+`http://www.emacswiki.org/emacs/CompanyMode'.
+
+For information about Anything and how to use it see URL
+`http://www.emacswiki.org/emacs/Anything'.
+
+See also the options `popcmp-short-help-beside-alts' and
+`popcmp-group-alternatives' which are also availabe when popup
+completion is available." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("rebind-keys-mode" variable nil nil nil "Non-nil if Rebind-Keys mode is enabled.
+See the command `rebind-keys-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `rebind-keys-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("sex-mode" variable nil nil nil "Non-nil if Sex mode is enabled.
+See the command `sex-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `sex-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("sml-modeline-mode" variable nil nil nil "Non-nil if Sml-Modeline mode is enabled.
+See the command `sml-modeline-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `sml-modeline-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("tabkey2-mode" variable nil nil nil "Non-nil if Tabkey2 mode is enabled.
+See the command `tabkey2-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `tabkey2-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("tyda-mode" variable nil nil nil "Non-nil if Tyda mode is enabled.
+See the command `tyda-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `tyda-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("vline-global-mode" variable nil nil nil "Non-nil if Vline-Global mode is enabled.
+See the command `vline-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `vline-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("wikipedia-draft-send-archive" variable nil t ((user-visible . t)) "*Archive the reply." nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("php-file-patterns" variable nil (quote ("\\.php[s34]?\\'" "\\.phtml\\'" "\\.inc\\'")) nil "List of file patterns for which to automatically invoke `php-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("global-mozadd-refresh-edited-on-save-mode" variable nil nil nil "Non-nil if Global-Mozadd-Refresh-Edited-On-Save mode is enabled.
+See the command `global-mozadd-refresh-edited-on-save-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `global-mozadd-refresh-edited-on-save-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("global-mozadd-mirror-mode" variable nil nil nil "Non-nil if Global-Mozadd-Mirror mode is enabled.
+See the command `global-mozadd-mirror-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `global-mozadd-mirror-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("add-to-list" code nil [1 1]) ("csharp-mode-hook" variable nil nil ((user-visible . t)) "*Hook called by `csharp-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("winsav-save-mode" variable nil nil nil "Non-nil if Winsav-Save mode is enabled.
+See the command `winsav-save-mode' for a description of this minor mode." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("wrap-to-fill-left-marg" variable nil nil nil "Left margin handling for `wrap-to-fill-column-mode'.
+Used by `wrap-to-fill-column-mode'. If nil then center the
+display columns. Otherwise it should be a number which will be
+the left margin." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("wrap-to-fill-left-marg-modes" variable nil (quote (text-mode fundamental-mode)) nil "Major modes where `wrap-to-fill-left-margin' may be nil." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("let" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxml-where-global-mode" variable nil nil nil "Non-nil if Nxml-Where-Global mode is enabled.
+See the command `nxml-where-global-mode' for a description of this minor mode.
+Setting this variable directly does not take effect;
+either customize it (see the info node `Easy Customization')
+or call the function `nxml-where-global-mode'." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("when" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("when" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-menu-mode" variable nil nil nil "Non-nil if Nxhtml-Menu mode is enabled.
+See the command `nxhtml-menu-mode' for a description of this minor mode." nil [1 1]) ("nxhtml-custom-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("html-toc-menu-map" variable nil (let ((map (make-sparse-keymap))) (define-key map [html-toc-browse-frames-file] (list (quote menu-item) "Browse Frames File" (quote html-toc-browse-frames-file))) (define-key map [html-toc-write-frames-file] (list (quote menu-item) "Write Frames File" (quote html-toc-write-frames-file))) (define-key map [html-toc-write-toc-file] (list (quote menu-item) "Write TOC File for Frames" (quote html-toc-write-toc-file))) (define-key map [html-toc-sep1] (list (quote menu-item) "--")) (define-key map [html-toc-edit-pages-file] (list (quote menu-item) "Edit List of Pages for TOC" (quote html-site-edit-pages-file))) (define-key map [html-toc-create-pages-file] (list (quote menu-item) "Write List of Pages for TOC" (quote html-toc-create-pages-file))) map) ((const . t)) nil nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("html-pagetoc-menu-map" variable nil (let ((map (make-sparse-keymap))) (define-key map [html-pagetoc-rebuild-toc] (list (quote menu-item) "Update Page TOC" (quote html-pagetoc-rebuild-toc))) (define-key map [html-pagetoc-insert-style-guide] (list (quote menu-item) "Insert CSS Style for Page TOC" (quote html-pagetoc-insert-style-guide))) (define-key map [html-pagetoc-insert-toc] (list (quote menu-item) "Insert Page TOC" (quote html-pagetoc-insert-toc))) map) ((const . t)) nil nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("let" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("web-autoload-require" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]) ("nxhtml-autoload" code nil [1 1]))
+    )
+   )
+  )

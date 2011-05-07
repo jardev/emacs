@@ -1,0 +1,13 @@
+;; Object semantic.cache
+;; SEMANTICDB Tags save file
+(semanticdb-project-database "semantic.cache"
+  :file "semantic.cache"
+  :tables (list
+   (semanticdb-table "slime-repl-autoloads.el"
+    :file "slime-repl-autoloads.el"
+    :pointmax 615
+    :major-mode 'emacs-lisp-mode
+    :tokens '(("slime-repl-autoloads" package nil nil nil [426 457]))
+    )
+   )
+  )

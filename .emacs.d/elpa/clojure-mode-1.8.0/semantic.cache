@@ -1,0 +1,13 @@
+;; Object semantic.cache
+;; SEMANTICDB Tags save file
+(semanticdb-project-database "semantic.cache"
+  :file "semantic.cache"
+  :tables (list
+   (semanticdb-table "clojure-mode-autoloads.el"
+    :file "clojure-mode-autoloads.el"
+    :pointmax 1235
+    :major-mode 'emacs-lisp-mode
+    :tokens '(("clojure-mode-autoloads" package nil nil nil [1042 1075]))
+    )
+   )
+  )
